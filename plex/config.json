@@ -9,8 +9,8 @@
   "arch": ["aarch64", "amd64", "armv7", "i386"],
   "map": ["media:rw", "share:rw", "ssl"],
   "devices": [
-    "/dev/dri/renderD128:/dev/dri/renderD128",
-    "/dev/dri/card0:/dev/dri/card0"
+    "/dev/dri/renderD128,
+    "/dev/dri/card0"
   ],
   "ports": {
     "3005/tcp": 3005,
