@@ -1,6 +1,6 @@
 {
   "name": "Plex Media Server",
-  "version": "1.0.0",
+  "version": "dev",
   "slug": "plex",
   "description": "Recorded media, live TV, online news, and podcasts ready to stream.",
   "url": "https://github.com/thebellenik/addon-plex",
